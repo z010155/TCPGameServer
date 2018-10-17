@@ -1,0 +1,14 @@
+{
+	"name": "TCPGameServer",
+	"version": "1.0.0",
+	"description": "An example of creating an advanced TCP gameserver.",
+	"main": "run.js",
+	"keywords": [],
+	"author": "",
+	"dependencies": {
+		"knex": "^0.15.2",
+		"mysql2": "^1.6.1",
+		"keccak": "^1.4.0",
+	},
+	"license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+	"Server": {
+		"Port": 1634,
+		"MaxClients": 100
+	},
+	"Database": {
+		"host": "localhost",
+		"user": "root",
+		"pass": "",
+		"database": "tcpgs"
+	}
+}
